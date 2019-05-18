@@ -1,2 +1,4 @@
-# JasonYanko8
-A chinese high shcool bad guy.
+# 微信防撤回
+## 环境 Python3，itchat库
+安装itchat以便你的使用可以进行
+ - pip install itchat
